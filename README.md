@@ -18,6 +18,4 @@ Exploration of Transcription Factor Binding Sites in promoter regions of IFN-sti
 - pyJASPAR
 - request
 - pandas
-- matplotlib.pyplot
-- os
 
